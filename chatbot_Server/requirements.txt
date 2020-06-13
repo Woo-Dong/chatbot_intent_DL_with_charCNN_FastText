@@ -1,0 +1,5 @@
+flask 
+line-bot-sdk 
+gunicorn
+pymongo
+soynlp
